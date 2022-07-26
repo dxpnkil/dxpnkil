@@ -14,7 +14,6 @@
 <a href="https://twitter.com/dxpnkil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dxpnkil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dxpnkil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dxpnkil" height="30" width="40" /></a>
 <a href="https://instagram.com/dwingardium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwingardium" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dxpnkil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dxpnkil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
