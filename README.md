@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 📝 I regularly write articles on [dxpnkil.github.io](dxpnkil.github.io)
-
 - 📫 How to reach me **ngocdung.ict@gmail.com**
 
 - ⚡ Fun fact **I love drawing**
