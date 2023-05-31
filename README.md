@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SLAM**
 
-- 📫 How to reach me **ngocdung29212@gmail.com**
+- 📫 How to reach me **phamngocdung.ict@gmail.com**
 
 - ⚡ Fun fact **I love drawing**
 
