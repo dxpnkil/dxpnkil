@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="left">Data:</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
@@ -43,11 +43,6 @@
    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
   </a>
-</p>
-
-
-<h3 align="left">Devops:</h3>
-<p align="left"> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
